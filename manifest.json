@@ -1,0 +1,9 @@
+{
+    "theme_color" : "#000000",
+    "background_color" : "#FFFFFF",
+    "display" : "fullscreen",
+    "scope" : "/",
+    "start_url" : "/",
+    "name" : "Movies",
+    "short_name" : "Movies"
+}
